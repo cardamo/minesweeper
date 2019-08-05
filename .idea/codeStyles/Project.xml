@@ -1,0 +1,9 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <codeStyleSettings language="Scala">
+      <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
